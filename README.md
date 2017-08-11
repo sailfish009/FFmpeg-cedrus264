@@ -2,7 +2,7 @@ FFMpeg for Cedrus on Allwinner devices with sunxi kernel Based on increadible wo
 
 To us it, clone the repository, and configure by:
 
-./configure --prefix=/usr --enable-nonfree --enable-gpl --enable-version3 --enable-vdpau --enable-libx264 --enable-libmp3lame --enable-libpulse --enable-libv4l2 --enable-cedrus264
+./configure --prefix=/usr --enable-nonfree --enable-gpl --enable-version3 --enable-vdpau --enable-libx264 --enable-libmp3lame --enable-libpulse --enable-libv4l2
 
 and then, make && make install
 
